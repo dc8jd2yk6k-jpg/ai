@@ -1,0 +1,368 @@
+{
+ "title": "A Revolution That No Longer Needs Us",
+ "date": "October 16, 2026",
+ "voice": "bm_george",
+ "speed": 1.15,
+ "lang": "en-gb",
+ "scenes": [
+  {
+   "id": "cold",
+   "lead": 1.54,
+   "tail": 0.75,
+   "lines": [
+    {
+     "id": "c1",
+     "text": "Every technological revolution had a happy ending.",
+     "pause": 0.4
+    },
+    {
+     "id": "c2",
+     "text": "For one simple reason: machines still needed people.",
+     "pause": 0.72
+    },
+    {
+     "id": "c3",
+     "text": "That was the contract. It is about to expire.",
+     "pause": 0.32
+    }
+   ]
+  },
+  {
+   "id": "card1",
+   "card": {
+    "num": "I",
+    "title": "The Weavers’ Contract"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "weave",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "w1",
+     "text": "In the eighteen-twenties, Britain had a quarter of a million handloom weavers.",
+     "pause": 0.32
+    },
+    {
+     "id": "w3",
+     "text": "The power loom bore them no malice. It was simply cheaper.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "chasm",
+   "lead": 0.14,
+   "tail": 0.38,
+   "lines": [
+    {
+     "id": "w4",
+     "text": "For half a century, output climbed, while wages stood still.",
+     "pause": 0.32
+    },
+    {
+     "id": "w5",
+     "text": "A generation lived out its life inside that chasm.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "rail",
+   "lead": 0.14,
+   "tail": 0.6,
+   "lines": [
+    {
+     "id": "w6",
+     "text": "The happy ending came for their grandchildren, because railways needed stokers, signalmen, and clerks.",
+     "pause": 0.24
+    },
+    {
+     "id": "w7",
+     "text": "Only humans could fill those roles.",
+     "pause": 0.56
+    },
+    {
+     "id": "w8",
+     "text": "This time, that is precisely what has changed.",
+     "pause": 0.16
+    }
+   ]
+  },
+  {
+   "id": "card2",
+   "card": {
+    "num": "II",
+    "title": "The Machine That Learns Everything"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "machine",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "m1",
+     "text": "A loom only wove cloth. Today, one system writes code, drafts contracts, answers the phone, and tutors our children.",
+     "pause": 0.32
+    },
+    {
+     "id": "m2",
+     "text": "Screen work goes first. It is made of words, numbers and code.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "tug",
+   "lead": 0.14,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "m3",
+     "text": "Every revolution is a tug of war: displacement against reinstatement.",
+     "pause": 0.24
+    },
+    {
+     "id": "m4",
+     "text": "This time, the new jobs will belong to machines from birth.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "ceiling",
+   "lead": 0.14,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "m5",
+     "text": "Once a machine can do your job, its cost becomes the ceiling on your wage.",
+     "pause": 0.24
+    },
+    {
+     "id": "m6",
+     "text": "And that ceiling keeps falling. Below the rent. Below food. Below the cost of staying alive.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "horses",
+   "lead": 0.14,
+   "tail": 0.6,
+   "lines": [
+    {
+     "id": "m7",
+     "text": "In nineteen-fifteen, America had twenty million horses. By nineteen-sixty, three million.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "card3",
+   "card": {
+    "num": "III",
+    "title": "Abundance Does Not Distribute Itself"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "famine",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "a1",
+     "text": "During the Irish Famine, a million people starved, while ships of grain sailed out of Irish ports.",
+     "pause": 0.32
+    },
+    {
+     "id": "a2",
+     "text": "In nineteen thirty-three, milk was poured onto highways and six million piglets were slaughtered, while cities went hungry.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "sen",
+   "lead": 0.14,
+   "tail": 0.6,
+   "lines": [
+    {
+     "id": "a3",
+     "text": "The starving rarely lack food. They lack the ability to acquire it.",
+     "pause": 0.48
+    },
+    {
+     "id": "a4",
+     "text": "The abundance of machines will be priced, not shared.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "card4",
+   "card": {
+    "num": "IV",
+    "title": "When the Boat No Longer Needs the Water"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "boat",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "b1",
+     "text": "The ruler is the boat. The people are the water. The water can carry the boat, or capsize it.",
+     "pause": 0.32
+    }
+   ]
+  },
+  {
+   "id": "curse",
+   "lead": 0.14,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "b3",
+     "text": "A state that lives on oil answers only to those who hold the wells.",
+     "pause": 0.24
+    },
+    {
+     "id": "b4",
+     "text": "A.I. makes every economy a petrostate. Researchers call it the intelligence curse.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "weapons",
+   "lead": 0.14,
+   "tail": 0.6,
+   "lines": [
+    {
+     "id": "b5",
+     "text": "Our old weapons fail. A strike means nothing when no one needs your labor.",
+     "pause": 0.24
+    },
+    {
+     "id": "b6",
+     "text": "And an automated guard will never lower its weapon for a neighbor in the crowd.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "card5",
+   "card": {
+    "num": "V",
+    "title": "No New World"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "assets",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "n1",
+     "text": "We will sell what we own, piece by piece. The savings. The home. The business.",
+     "pause": 0.32
+    },
+    {
+     "id": "n2",
+     "text": "In fifteen-sixteen, Thomas More wrote that sheep were devouring men. Enclosure needed fences. This time, it needs only time.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "lead": 0.14,
+   "tail": 0.6,
+   "lines": [
+    {
+     "id": "n3",
+     "text": "Britain exported its unemployment: to India, to China, and across the ocean.",
+     "pause": 0.32
+    },
+    {
+     "id": "n4",
+     "text": "This time, there is no ocean left to cross. The machine arrives everywhere at once.",
+     "pause": 0.24
+    },
+    {
+     "id": "n5",
+     "text": "And the ladder's bottom rung, cheap labor, is the first thing it makes worthless.",
+     "pause": 0.24
+    }
+   ]
+  },
+  {
+   "id": "card6",
+   "card": {
+    "num": "VI",
+    "title": "The End of the Contract"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "quiet",
+   "lead": 0.21,
+   "tail": 0.3,
+   "lines": [
+    {
+     "id": "e1",
+     "text": "The end will not arrive as an upheaval. It will come quietly.",
+     "pause": 0.32
+    },
+    {
+     "id": "e2",
+     "text": "The job posting never put up. The contract not renewed. The graduate who never finds a first job.",
+     "pause": 0.4
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "lead": 0.28,
+   "tail": 0.9,
+   "lines": [
+    {
+     "id": "e3",
+     "text": "The weavers lost a craft. We are losing our place in the economy itself.",
+     "pause": 0.72
+    },
+    {
+     "id": "e4",
+     "text": "Our descendants will see the wealthiest, most dazzling world in history.",
+     "pause": 0.32
+    },
+    {
+     "id": "e5",
+     "text": "It will run flawlessly without them.",
+     "pause": 0.88
+    },
+    {
+     "id": "e6",
+     "text": "And not a single thing in it will belong to them.",
+     "pause": 0.16
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "card": {
+    "end": true
+   },
+   "dur": 6.0
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+.cache/
+node_modules/
+out/stills/
+out/sheet*.jpg
+video/out/

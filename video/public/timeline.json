@@ -1,0 +1,2345 @@
+{
+ "fps": 30,
+ "total": 204.339,
+ "title": "A Revolution That No Longer Needs Us",
+ "date": "October 16, 2026",
+ "scenes": [
+  {
+   "id": "cold",
+   "start": 0.0,
+   "lines": [
+    {
+     "id": "c1",
+     "text": "Every technological revolution had a happy ending.",
+     "start": 1.54,
+     "dur": 3.256,
+     "words": [
+      {
+       "w": "Every",
+       "t": 1.54
+      },
+      {
+       "w": "technological",
+       "t": 2.031
+      },
+      {
+       "w": "revolution",
+       "t": 2.827
+      },
+      {
+       "w": "had",
+       "t": 3.477
+      },
+      {
+       "w": "a",
+       "t": 3.7
+      },
+      {
+       "w": "happy",
+       "t": 3.911
+      },
+      {
+       "w": "ending.",
+       "t": 4.274
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "For one simple reason: machines still needed people.",
+     "start": 5.196,
+     "dur": 3.189,
+     "words": [
+      {
+       "w": "For",
+       "t": 5.196
+      },
+      {
+       "w": "one",
+       "t": 5.426
+      },
+      {
+       "w": "simple",
+       "t": 5.786
+      },
+      {
+       "w": "reason:",
+       "t": 6.166
+      },
+      {
+       "w": "machines",
+       "t": 6.703
+      },
+      {
+       "w": "still",
+       "t": 7.227
+      },
+      {
+       "w": "needed",
+       "t": 7.469
+      },
+      {
+       "w": "people.",
+       "t": 7.849
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "That was the contract. It is about to expire.",
+     "start": 9.106,
+     "dur": 2.774,
+     "words": [
+      {
+       "w": "That",
+       "t": 9.106
+      },
+      {
+       "w": "was",
+       "t": 9.327
+      },
+      {
+       "w": "the",
+       "t": 9.542
+      },
+      {
+       "w": "contract.",
+       "t": 9.758
+      },
+      {
+       "w": "It",
+       "t": 10.274
+      },
+      {
+       "w": "is",
+       "t": 10.484
+      },
+      {
+       "w": "about",
+       "t": 10.693
+      },
+      {
+       "w": "to",
+       "t": 11.043
+      },
+      {
+       "w": "expire.",
+       "t": 11.252
+      }
+     ]
+    }
+   ],
+   "dur": 12.95
+  },
+  {
+   "id": "card1",
+   "start": 12.95,
+   "card": {
+    "num": "I",
+    "title": "The Weavers\u2019 Contract"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "weave",
+   "start": 15.15,
+   "lines": [
+    {
+     "id": "w1",
+     "text": "In the eighteen-twenties, Britain had a quarter of a million handloom weavers.",
+     "start": 15.36,
+     "dur": 4.287,
+     "words": [
+      {
+       "w": "In",
+       "t": 15.36
+      },
+      {
+       "w": "the",
+       "t": 15.582
+      },
+      {
+       "w": "eighteen-twenties,",
+       "t": 15.811
+      },
+      {
+       "w": "Britain",
+       "t": 16.673
+      },
+      {
+       "w": "had",
+       "t": 17.059
+      },
+      {
+       "w": "a",
+       "t": 17.288
+      },
+      {
+       "w": "quarter",
+       "t": 17.503
+      },
+      {
+       "w": "of",
+       "t": 17.889
+      },
+      {
+       "w": "a",
+       "t": 18.111
+      },
+      {
+       "w": "million",
+       "t": 18.326
+      },
+      {
+       "w": "handloom",
+       "t": 18.712
+      },
+      {
+       "w": "weavers.",
+       "t": 19.104
+      }
+     ]
+    },
+    {
+     "id": "w3",
+     "text": "The power loom bore them no malice. It was simply cheaper.",
+     "start": 19.966,
+     "dur": 3.378,
+     "words": [
+      {
+       "w": "The",
+       "t": 19.966
+      },
+      {
+       "w": "power",
+       "t": 20.175
+      },
+      {
+       "w": "loom",
+       "t": 20.515
+      },
+      {
+       "w": "bore",
+       "t": 20.73
+      },
+      {
+       "w": "them",
+       "t": 21.065
+      },
+      {
+       "w": "no",
+       "t": 21.279
+      },
+      {
+       "w": "malice.",
+       "t": 21.482
+      },
+      {
+       "w": "It",
+       "t": 22.091
+      },
+      {
+       "w": "was",
+       "t": 22.294
+      },
+      {
+       "w": "simply",
+       "t": 22.503
+      },
+      {
+       "w": "cheaper.",
+       "t": 22.849
+      }
+     ]
+    }
+   ],
+   "dur": 8.735
+  },
+  {
+   "id": "chasm",
+   "start": 23.884,
+   "lines": [
+    {
+     "id": "w4",
+     "text": "For half a century, output climbed, while wages stood still.",
+     "start": 24.024,
+     "dur": 3.684,
+     "words": [
+      {
+       "w": "For",
+       "t": 24.024
+      },
+      {
+       "w": "half",
+       "t": 24.255
+      },
+      {
+       "w": "a",
+       "t": 24.491
+      },
+      {
+       "w": "century,",
+       "t": 24.708
+      },
+      {
+       "w": "output",
+       "t": 25.386
+      },
+      {
+       "w": "climbed,",
+       "t": 25.768
+      },
+      {
+       "w": "while",
+       "t": 26.313
+      },
+      {
+       "w": "wages",
+       "t": 26.688
+      },
+      {
+       "w": "stood",
+       "t": 27.063
+      },
+      {
+       "w": "still.",
+       "t": 27.307
+      }
+     ]
+    },
+    {
+     "id": "w5",
+     "text": "A generation lived out its life inside that chasm.",
+     "start": 28.028,
+     "dur": 3.48,
+     "words": [
+      {
+       "w": "A",
+       "t": 28.028
+      },
+      {
+       "w": "generation",
+       "t": 28.261
+      },
+      {
+       "w": "lived",
+       "t": 28.981
+      },
+      {
+       "w": "out",
+       "t": 29.383
+      },
+      {
+       "w": "its",
+       "t": 29.63
+      },
+      {
+       "w": "life",
+       "t": 29.878
+      },
+      {
+       "w": "inside",
+       "t": 30.273
+      },
+      {
+       "w": "that",
+       "t": 30.823
+      },
+      {
+       "w": "chasm.",
+       "t": 31.078
+      }
+     ]
+    }
+   ],
+   "dur": 8.244
+  },
+  {
+   "id": "rail",
+   "start": 32.128,
+   "lines": [
+    {
+     "id": "w6",
+     "text": "The happy ending came for their grandchildren, because railways needed stokers, signalmen, and clerks.",
+     "start": 32.268,
+     "dur": 5.877,
+     "words": [
+      {
+       "w": "The",
+       "t": 32.268
+      },
+      {
+       "w": "happy",
+       "t": 32.505
+      },
+      {
+       "w": "ending",
+       "t": 32.89
+      },
+      {
+       "w": "came",
+       "t": 33.283
+      },
+      {
+       "w": "for",
+       "t": 33.661
+      },
+      {
+       "w": "their",
+       "t": 33.898
+      },
+      {
+       "w": "grandchildren,",
+       "t": 34.148
+      },
+      {
+       "w": "because",
+       "t": 34.886
+      },
+      {
+       "w": "railways",
+       "t": 35.42
+      },
+      {
+       "w": "needed",
+       "t": 35.826
+      },
+      {
+       "w": "stokers,",
+       "t": 36.218
+      },
+      {
+       "w": "signalmen,",
+       "t": 36.779
+      },
+      {
+       "w": "and",
+       "t": 37.489
+      },
+      {
+       "w": "clerks.",
+       "t": 37.726
+      }
+     ]
+    },
+    {
+     "id": "w7",
+     "text": "Only humans could fill those roles.",
+     "start": 38.385,
+     "dur": 2.342,
+     "words": [
+      {
+       "w": "Only",
+       "t": 38.385
+      },
+      {
+       "w": "humans",
+       "t": 38.789
+      },
+      {
+       "w": "could",
+       "t": 39.207
+      },
+      {
+       "w": "fill",
+       "t": 39.474
+      },
+      {
+       "w": "those",
+       "t": 39.733
+      },
+      {
+       "w": "roles.",
+       "t": 40.144
+      }
+     ]
+    },
+    {
+     "id": "w8",
+     "text": "This time, that is precisely what has changed.",
+     "start": 41.288,
+     "dur": 2.506,
+     "words": [
+      {
+       "w": "This",
+       "t": 41.288
+      },
+      {
+       "w": "time,",
+       "t": 41.492
+      },
+      {
+       "w": "that",
+       "t": 41.947
+      },
+      {
+       "w": "is",
+       "t": 42.151
+      },
+      {
+       "w": "precisely",
+       "t": 42.345
+      },
+      {
+       "w": "what",
+       "t": 42.919
+      },
+      {
+       "w": "has",
+       "t": 43.123
+      },
+      {
+       "w": "changed.",
+       "t": 43.322
+      }
+     ]
+    }
+   ],
+   "dur": 12.426
+  },
+  {
+   "id": "card2",
+   "start": 44.554,
+   "card": {
+    "num": "II",
+    "title": "The Machine That Learns Everything"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "machine",
+   "start": 46.754,
+   "lines": [
+    {
+     "id": "m1",
+     "text": "A loom only wove cloth. Today, one system writes code, drafts contracts, answers the phone, and tutors our children.",
+     "start": 46.964,
+     "dur": 7.287,
+     "words": [
+      {
+       "w": "A",
+       "t": 46.964
+      },
+      {
+       "w": "loom",
+       "t": 47.186
+      },
+      {
+       "w": "only",
+       "t": 47.428
+      },
+      {
+       "w": "wove",
+       "t": 47.804
+      },
+      {
+       "w": "cloth.",
+       "t": 48.181
+      },
+      {
+       "w": "Today,",
+       "t": 48.591
+      },
+      {
+       "w": "one",
+       "t": 49.135
+      },
+      {
+       "w": "system",
+       "t": 49.505
+      },
+      {
+       "w": "writes",
+       "t": 49.895
+      },
+      {
+       "w": "code,",
+       "t": 50.285
+      },
+      {
+       "w": "drafts",
+       "t": 50.822
+      },
+      {
+       "w": "contracts,",
+       "t": 51.078
+      },
+      {
+       "w": "answers",
+       "t": 51.649
+      },
+      {
+       "w": "the",
+       "t": 52.046
+      },
+      {
+       "w": "phone,",
+       "t": 52.281
+      },
+      {
+       "w": "and",
+       "t": 52.826
+      },
+      {
+       "w": "tutors",
+       "t": 53.061
+      },
+      {
+       "w": "our",
+       "t": 53.451
+      },
+      {
+       "w": "children.",
+       "t": 53.686
+      }
+     ]
+    },
+    {
+     "id": "m2",
+     "text": "Screen work goes first. It is made of words, numbers and code.",
+     "start": 54.571,
+     "dur": 3.898,
+     "words": [
+      {
+       "w": "Screen",
+       "t": 54.571
+      },
+      {
+       "w": "work",
+       "t": 54.833
+      },
+      {
+       "w": "goes",
+       "t": 55.082
+      },
+      {
+       "w": "first.",
+       "t": 55.331
+      },
+      {
+       "w": "It",
+       "t": 55.753
+      },
+      {
+       "w": "is",
+       "t": 55.988
+      },
+      {
+       "w": "made",
+       "t": 56.223
+      },
+      {
+       "w": "of",
+       "t": 56.61
+      },
+      {
+       "w": "words,",
+       "t": 56.845
+      },
+      {
+       "w": "numbers",
+       "t": 57.266
+      },
+      {
+       "w": "and",
+       "t": 57.674
+      },
+      {
+       "w": "code.",
+       "t": 57.916
+      }
+     ]
+    }
+   ],
+   "dur": 12.255
+  },
+  {
+   "id": "tug",
+   "start": 59.009,
+   "lines": [
+    {
+     "id": "m3",
+     "text": "Every revolution is a tug of war: displacement against reinstatement.",
+     "start": 59.149,
+     "dur": 4.717,
+     "words": [
+      {
+       "w": "Every",
+       "t": 59.149
+      },
+      {
+       "w": "revolution",
+       "t": 59.694
+      },
+      {
+       "w": "is",
+       "t": 60.417
+      },
+      {
+       "w": "a",
+       "t": 60.657
+      },
+      {
+       "w": "tug",
+       "t": 60.891
+      },
+      {
+       "w": "of",
+       "t": 61.139
+      },
+      {
+       "w": "war:",
+       "t": 61.38
+      },
+      {
+       "w": "displacement",
+       "t": 61.798
+      },
+      {
+       "w": "against",
+       "t": 62.534
+      },
+      {
+       "w": "reinstatement.",
+       "t": 62.952
+      }
+     ]
+    },
+    {
+     "id": "m4",
+     "text": "This time, the new jobs will belong to machines from birth.",
+     "start": 64.106,
+     "dur": 3.402,
+     "words": [
+      {
+       "w": "This",
+       "t": 64.106
+      },
+      {
+       "w": "time,",
+       "t": 64.338
+      },
+      {
+       "w": "the",
+       "t": 64.855
+      },
+      {
+       "w": "new",
+       "t": 65.081
+      },
+      {
+       "w": "jobs",
+       "t": 65.307
+      },
+      {
+       "w": "will",
+       "t": 65.539
+      },
+      {
+       "w": "belong",
+       "t": 65.771
+      },
+      {
+       "w": "to",
+       "t": 66.146
+      },
+      {
+       "w": "machines",
+       "t": 66.365
+      },
+      {
+       "w": "from",
+       "t": 66.882
+      },
+      {
+       "w": "birth.",
+       "t": 67.114
+      }
+     ]
+    }
+   ],
+   "dur": 9.039
+  },
+  {
+   "id": "ceiling",
+   "start": 68.048,
+   "lines": [
+    {
+     "id": "m5",
+     "text": "Once a machine can do your job, its cost becomes the ceiling on your wage.",
+     "start": 68.188,
+     "dur": 4.495,
+     "words": [
+      {
+       "w": "Once",
+       "t": 68.188
+      },
+      {
+       "w": "a",
+       "t": 68.535
+      },
+      {
+       "w": "machine",
+       "t": 68.739
+      },
+      {
+       "w": "can",
+       "t": 69.228
+      },
+      {
+       "w": "do",
+       "t": 69.445
+      },
+      {
+       "w": "your",
+       "t": 69.655
+      },
+      {
+       "w": "job,",
+       "t": 69.878
+      },
+      {
+       "w": "its",
+       "t": 70.244
+      },
+      {
+       "w": "cost",
+       "t": 70.46
+      },
+      {
+       "w": "becomes",
+       "t": 70.683
+      },
+      {
+       "w": "the",
+       "t": 71.172
+      },
+      {
+       "w": "ceiling",
+       "t": 71.389
+      },
+      {
+       "w": "on",
+       "t": 71.755
+      },
+      {
+       "w": "your",
+       "t": 71.965
+      },
+      {
+       "w": "wage.",
+       "t": 72.188
+      }
+     ]
+    },
+    {
+     "id": "m6",
+     "text": "And that ceiling keeps falling. Below the rent. Below food. Below the cost of staying alive.",
+     "start": 72.923,
+     "dur": 5.382,
+     "words": [
+      {
+       "w": "And",
+       "t": 72.923
+      },
+      {
+       "w": "that",
+       "t": 73.153
+      },
+      {
+       "w": "ceiling",
+       "t": 73.389
+      },
+      {
+       "w": "keeps",
+       "t": 73.776
+      },
+      {
+       "w": "falling.",
+       "t": 74.018
+      },
+      {
+       "w": "Below",
+       "t": 74.562
+      },
+      {
+       "w": "the",
+       "t": 74.936
+      },
+      {
+       "w": "rent.",
+       "t": 75.165
+      },
+      {
+       "w": "Below",
+       "t": 75.559
+      },
+      {
+       "w": "food.",
+       "t": 75.932
+      },
+      {
+       "w": "Below",
+       "t": 76.326
+      },
+      {
+       "w": "the",
+       "t": 76.699
+      },
+      {
+       "w": "cost",
+       "t": 76.929
+      },
+      {
+       "w": "of",
+       "t": 77.165
+      },
+      {
+       "w": "staying",
+       "t": 77.388
+      },
+      {
+       "w": "alive.",
+       "t": 77.643
+      }
+     ]
+    }
+   ],
+   "dur": 10.798
+  },
+  {
+   "id": "horses",
+   "start": 78.846,
+   "lines": [
+    {
+     "id": "m7",
+     "text": "In nineteen-fifteen, America had twenty million horses. By nineteen-sixty, three million.",
+     "start": 78.986,
+     "dur": 5.484,
+     "words": [
+      {
+       "w": "In",
+       "t": 78.986
+      },
+      {
+       "w": "nineteen-fifteen,",
+       "t": 79.213
+      },
+      {
+       "w": "America",
+       "t": 80.221
+      },
+      {
+       "w": "had",
+       "t": 80.882
+      },
+      {
+       "w": "twenty",
+       "t": 81.116
+      },
+      {
+       "w": "million",
+       "t": 81.504
+      },
+      {
+       "w": "horses.",
+       "t": 81.898
+      },
+      {
+       "w": "By",
+       "t": 82.445
+      },
+      {
+       "w": "nineteen-sixty,",
+       "t": 82.672
+      },
+      {
+       "w": "three",
+       "t": 83.668
+      },
+      {
+       "w": "million.",
+       "t": 83.915
+      }
+     ]
+    }
+   ],
+   "dur": 6.464
+  },
+  {
+   "id": "card3",
+   "start": 85.309,
+   "card": {
+    "num": "III",
+    "title": "Abundance Does Not Distribute Itself"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "famine",
+   "start": 87.509,
+   "lines": [
+    {
+     "id": "a1",
+     "text": "During the Irish Famine, a million people starved, while ships of grain sailed out of Irish ports.",
+     "start": 87.719,
+     "dur": 5.6,
+     "words": [
+      {
+       "w": "During",
+       "t": 87.719
+      },
+      {
+       "w": "the",
+       "t": 88.082
+      },
+      {
+       "w": "Irish",
+       "t": 88.301
+      },
+      {
+       "w": "Famine,",
+       "t": 88.658
+      },
+      {
+       "w": "a",
+       "t": 89.296
+      },
+      {
+       "w": "million",
+       "t": 89.502
+      },
+      {
+       "w": "people",
+       "t": 89.871
+      },
+      {
+       "w": "starved,",
+       "t": 90.234
+      },
+      {
+       "w": "while",
+       "t": 90.754
+      },
+      {
+       "w": "ships",
+       "t": 91.11
+      },
+      {
+       "w": "of",
+       "t": 91.342
+      },
+      {
+       "w": "grain",
+       "t": 91.554
+      },
+      {
+       "w": "sailed",
+       "t": 91.786
+      },
+      {
+       "w": "out",
+       "t": 92.149
+      },
+      {
+       "w": "of",
+       "t": 92.368
+      },
+      {
+       "w": "Irish",
+       "t": 92.581
+      },
+      {
+       "w": "ports.",
+       "t": 92.937
+      }
+     ]
+    },
+    {
+     "id": "a2",
+     "text": "In nineteen thirty-three, milk was poured onto highways and six million piglets were slaughtered, while cities went hungry.",
+     "start": 93.639,
+     "dur": 6.828,
+     "words": [
+      {
+       "w": "In",
+       "t": 93.639
+      },
+      {
+       "w": "nineteen",
+       "t": 93.86
+      },
+      {
+       "w": "thirty-three,",
+       "t": 94.38
+      },
+      {
+       "w": "milk",
+       "t": 95.076
+      },
+      {
+       "w": "was",
+       "t": 95.31
+      },
+      {
+       "w": "poured",
+       "t": 95.538
+      },
+      {
+       "w": "onto",
+       "t": 95.915
+      },
+      {
+       "w": "highways",
+       "t": 96.279
+      },
+      {
+       "w": "and",
+       "t": 96.669
+      },
+      {
+       "w": "six",
+       "t": 96.897
+      },
+      {
+       "w": "million",
+       "t": 97.124
+      },
+      {
+       "w": "piglets",
+       "t": 97.508
+      },
+      {
+       "w": "were",
+       "t": 97.892
+      },
+      {
+       "w": "slaughtered,",
+       "t": 98.256
+      },
+      {
+       "w": "while",
+       "t": 98.952
+      },
+      {
+       "w": "cities",
+       "t": 99.323
+      },
+      {
+       "w": "went",
+       "t": 99.7
+      },
+      {
+       "w": "hungry.",
+       "t": 99.934
+      }
+     ]
+    }
+   ],
+   "dur": 13.498
+  },
+  {
+   "id": "sen",
+   "start": 101.007,
+   "lines": [
+    {
+     "id": "a3",
+     "text": "The starving rarely lack food. They lack the ability to acquire it.",
+     "start": 101.147,
+     "dur": 3.796,
+     "words": [
+      {
+       "w": "The",
+       "t": 101.147
+      },
+      {
+       "w": "starving",
+       "t": 101.353
+      },
+      {
+       "w": "rarely",
+       "t": 101.705
+      },
+      {
+       "w": "lack",
+       "t": 102.164
+      },
+      {
+       "w": "food.",
+       "t": 102.375
+      },
+      {
+       "w": "They",
+       "t": 102.728
+      },
+      {
+       "w": "lack",
+       "t": 102.939
+      },
+      {
+       "w": "the",
+       "t": 103.151
+      },
+      {
+       "w": "ability",
+       "t": 103.357
+      },
+      {
+       "w": "to",
+       "t": 103.939
+      },
+      {
+       "w": "acquire",
+       "t": 104.138
+      },
+      {
+       "w": "it.",
+       "t": 104.603
+      }
+     ]
+    },
+    {
+     "id": "a4",
+     "text": "The abundance of machines will be priced, not shared.",
+     "start": 105.423,
+     "dur": 2.971,
+     "words": [
+      {
+       "w": "The",
+       "t": 105.423
+      },
+      {
+       "w": "abundance",
+       "t": 105.624
+      },
+      {
+       "w": "of",
+       "t": 106.202
+      },
+      {
+       "w": "machines",
+       "t": 106.397
+      },
+      {
+       "w": "will",
+       "t": 106.855
+      },
+      {
+       "w": "be",
+       "t": 107.061
+      },
+      {
+       "w": "priced,",
+       "t": 107.255
+      },
+      {
+       "w": "not",
+       "t": 107.725
+      },
+      {
+       "w": "shared.",
+       "t": 107.925
+      }
+     ]
+    }
+   ],
+   "dur": 8.227
+  },
+  {
+   "id": "card4",
+   "start": 109.235,
+   "card": {
+    "num": "IV",
+    "title": "When the Boat No Longer Needs the Water"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "boat",
+   "start": 111.435,
+   "lines": [
+    {
+     "id": "b1",
+     "text": "The ruler is the boat. The people are the water. The water can carry the boat, or capsize it.",
+     "start": 111.645,
+     "dur": 5.493,
+     "words": [
+      {
+       "w": "The",
+       "t": 111.645
+      },
+      {
+       "w": "ruler",
+       "t": 111.85
+      },
+      {
+       "w": "is",
+       "t": 112.185
+      },
+      {
+       "w": "the",
+       "t": 112.385
+      },
+      {
+       "w": "boat.",
+       "t": 112.59
+      },
+      {
+       "w": "The",
+       "t": 112.943
+      },
+      {
+       "w": "people",
+       "t": 113.148
+      },
+      {
+       "w": "are",
+       "t": 113.489
+      },
+      {
+       "w": "the",
+       "t": 113.812
+      },
+      {
+       "w": "water.",
+       "t": 114.018
+      },
+      {
+       "w": "The",
+       "t": 114.494
+      },
+      {
+       "w": "water",
+       "t": 114.699
+      },
+      {
+       "w": "can",
+       "t": 115.034
+      },
+      {
+       "w": "carry",
+       "t": 115.24
+      },
+      {
+       "w": "the",
+       "t": 115.575
+      },
+      {
+       "w": "boat,",
+       "t": 115.78
+      },
+      {
+       "w": "or",
+       "t": 116.133
+      },
+      {
+       "w": "capsize",
+       "t": 116.332
+      },
+      {
+       "w": "it.",
+       "t": 116.797
+      }
+     ]
+    }
+   ],
+   "dur": 6.323
+  },
+  {
+   "id": "curse",
+   "start": 117.757,
+   "lines": [
+    {
+     "id": "b3",
+     "text": "A state that lives on oil answers only to those who hold the wells.",
+     "start": 117.897,
+     "dur": 3.985,
+     "words": [
+      {
+       "w": "A",
+       "t": 117.897
+      },
+      {
+       "w": "state",
+       "t": 118.108
+      },
+      {
+       "w": "that",
+       "t": 118.471
+      },
+      {
+       "w": "lives",
+       "t": 118.701
+      },
+      {
+       "w": "on",
+       "t": 119.064
+      },
+      {
+       "w": "oil",
+       "t": 119.281
+      },
+      {
+       "w": "answers",
+       "t": 119.504
+      },
+      {
+       "w": "only",
+       "t": 119.88
+      },
+      {
+       "w": "to",
+       "t": 120.237
+      },
+      {
+       "w": "those",
+       "t": 120.454
+      },
+      {
+       "w": "who",
+       "t": 120.817
+      },
+      {
+       "w": "hold",
+       "t": 121.04
+      },
+      {
+       "w": "the",
+       "t": 121.27
+      },
+      {
+       "w": "wells.",
+       "t": 121.493
+      }
+     ]
+    },
+    {
+     "id": "b4",
+     "text": "A.I. makes every economy a petrostate. Researchers call it the intelligence curse.",
+     "start": 122.122,
+     "dur": 5.162,
+     "words": [
+      {
+       "w": "A.I.",
+       "t": 122.122
+      },
+      {
+       "w": "makes",
+       "t": 122.477
+      },
+      {
+       "w": "every",
+       "t": 122.826
+      },
+      {
+       "w": "economy",
+       "t": 123.297
+      },
+      {
+       "w": "a",
+       "t": 123.904
+      },
+      {
+       "w": "petrostate.",
+       "t": 124.106
+      },
+      {
+       "w": "Researchers",
+       "t": 124.877
+      },
+      {
+       "w": "call",
+       "t": 125.385
+      },
+      {
+       "w": "it",
+       "t": 125.606
+      },
+      {
+       "w": "the",
+       "t": 125.814
+      },
+      {
+       "w": "intelligence",
+       "t": 126.028
+      },
+      {
+       "w": "curse.",
+       "t": 126.788
+      }
+     ]
+    }
+   ],
+   "dur": 10.066
+  },
+  {
+   "id": "weapons",
+   "start": 127.824,
+   "lines": [
+    {
+     "id": "b5",
+     "text": "Our old weapons fail. A strike means nothing when no one needs your labor.",
+     "start": 127.964,
+     "dur": 4.445,
+     "words": [
+      {
+       "w": "Our",
+       "t": 127.964
+      },
+      {
+       "w": "old",
+       "t": 128.201
+      },
+      {
+       "w": "weapons",
+       "t": 128.439
+      },
+      {
+       "w": "fail.",
+       "t": 128.839
+      },
+      {
+       "w": "A",
+       "t": 129.246
+      },
+      {
+       "w": "strike",
+       "t": 129.47
+      },
+      {
+       "w": "means",
+       "t": 129.864
+      },
+      {
+       "w": "nothing",
+       "t": 130.115
+      },
+      {
+       "w": "when",
+       "t": 130.515
+      },
+      {
+       "w": "no",
+       "t": 130.76
+      },
+      {
+       "w": "one",
+       "t": 130.99
+      },
+      {
+       "w": "needs",
+       "t": 131.364
+      },
+      {
+       "w": "your",
+       "t": 131.615
+      },
+      {
+       "w": "labor.",
+       "t": 131.859
+      }
+     ]
+    },
+    {
+     "id": "b6",
+     "text": "And an automated guard will never lower its weapon for a neighbor in the crowd.",
+     "start": 132.649,
+     "dur": 4.307,
+     "words": [
+      {
+       "w": "And",
+       "t": 132.649
+      },
+      {
+       "w": "an",
+       "t": 132.862
+      },
+      {
+       "w": "automated",
+       "t": 133.069
+      },
+      {
+       "w": "guard",
+       "t": 133.683
+      },
+      {
+       "w": "will",
+       "t": 133.908
+      },
+      {
+       "w": "never",
+       "t": 134.127
+      },
+      {
+       "w": "lower",
+       "t": 134.474
+      },
+      {
+       "w": "its",
+       "t": 134.821
+      },
+      {
+       "w": "weapon",
+       "t": 135.034
+      },
+      {
+       "w": "for",
+       "t": 135.386
+      },
+      {
+       "w": "a",
+       "t": 135.599
+      },
+      {
+       "w": "neighbor",
+       "t": 135.8
+      },
+      {
+       "w": "in",
+       "t": 136.165
+      },
+      {
+       "w": "the",
+       "t": 136.372
+      },
+      {
+       "w": "crowd.",
+       "t": 136.585
+      }
+     ]
+    }
+   ],
+   "dur": 9.972
+  },
+  {
+   "id": "card5",
+   "start": 137.796,
+   "card": {
+    "num": "V",
+    "title": "No New World"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "assets",
+   "start": 139.996,
+   "lines": [
+    {
+     "id": "n1",
+     "text": "We will sell what we own, piece by piece. The savings. The home. The business.",
+     "start": 140.206,
+     "dur": 4.475,
+     "words": [
+      {
+       "w": "We",
+       "t": 140.206
+      },
+      {
+       "w": "will",
+       "t": 140.401
+      },
+      {
+       "w": "sell",
+       "t": 140.608
+      },
+      {
+       "w": "what",
+       "t": 140.815
+      },
+      {
+       "w": "we",
+       "t": 141.022
+      },
+      {
+       "w": "own,",
+       "t": 141.217
+      },
+      {
+       "w": "piece",
+       "t": 141.556
+      },
+      {
+       "w": "by",
+       "t": 141.883
+      },
+      {
+       "w": "piece.",
+       "t": 142.079
+      },
+      {
+       "w": "The",
+       "t": 142.544
+      },
+      {
+       "w": "savings.",
+       "t": 142.745
+      },
+      {
+       "w": "The",
+       "t": 143.222
+      },
+      {
+       "w": "home.",
+       "t": 143.423
+      },
+      {
+       "w": "The",
+       "t": 143.883
+      },
+      {
+       "w": "business.",
+       "t": 144.084
+      }
+     ]
+    },
+    {
+     "id": "n2",
+     "text": "In fifteen-sixteen, Thomas More wrote that sheep were devouring men. Enclosure needed fences. This time, it needs only time.",
+     "start": 145.001,
+     "dur": 7.883,
+     "words": [
+      {
+       "w": "In",
+       "t": 145.001
+      },
+      {
+       "w": "fifteen-sixteen,",
+       "t": 145.231
+      },
+      {
+       "w": "Thomas",
+       "t": 146.108
+      },
+      {
+       "w": "More",
+       "t": 146.499
+      },
+      {
+       "w": "wrote",
+       "t": 146.877
+      },
+      {
+       "w": "that",
+       "t": 147.262
+      },
+      {
+       "w": "sheep",
+       "t": 147.505
+      },
+      {
+       "w": "were",
+       "t": 147.755
+      },
+      {
+       "w": "devouring",
+       "t": 148.133
+      },
+      {
+       "w": "men.",
+       "t": 148.679
+      },
+      {
+       "w": "Enclosure",
+       "t": 149.078
+      },
+      {
+       "w": "needed",
+       "t": 149.759
+      },
+      {
+       "w": "fences.",
+       "t": 150.151
+      },
+      {
+       "w": "This",
+       "t": 150.704
+      },
+      {
+       "w": "time,",
+       "t": 150.947
+      },
+      {
+       "w": "it",
+       "t": 151.487
+      },
+      {
+       "w": "needs",
+       "t": 151.716
+      },
+      {
+       "w": "only",
+       "t": 151.966
+      },
+      {
+       "w": "time.",
+       "t": 152.344
+      }
+     ]
+    }
+   ],
+   "dur": 13.428
+  },
+  {
+   "id": "map",
+   "start": 153.424,
+   "lines": [
+    {
+     "id": "n3",
+     "text": "Britain exported its unemployment: to India, to China, and across the ocean.",
+     "start": 153.564,
+     "dur": 4.784,
+     "words": [
+      {
+       "w": "Britain",
+       "t": 153.564
+      },
+      {
+       "w": "exported",
+       "t": 153.945
+      },
+      {
+       "w": "its",
+       "t": 154.462
+      },
+      {
+       "w": "unemployment:",
+       "t": 154.688
+      },
+      {
+       "w": "to",
+       "t": 155.514
+      },
+      {
+       "w": "India,",
+       "t": 155.734
+      },
+      {
+       "w": "to",
+       "t": 156.257
+      },
+      {
+       "w": "China,",
+       "t": 156.476
+      },
+      {
+       "w": "and",
+       "t": 156.999
+      },
+      {
+       "w": "across",
+       "t": 157.225
+      },
+      {
+       "w": "the",
+       "t": 157.6
+      },
+      {
+       "w": "ocean.",
+       "t": 157.826
+      }
+     ]
+    },
+    {
+     "id": "n4",
+     "text": "This time, there is no ocean left to cross. The machine arrives everywhere at once.",
+     "start": 158.668,
+     "dur": 4.72,
+     "words": [
+      {
+       "w": "This",
+       "t": 158.668
+      },
+      {
+       "w": "time,",
+       "t": 158.867
+      },
+      {
+       "w": "there",
+       "t": 159.307
+      },
+      {
+       "w": "is",
+       "t": 159.62
+      },
+      {
+       "w": "no",
+       "t": 159.807
+      },
+      {
+       "w": "ocean",
+       "t": 159.994
+      },
+      {
+       "w": "left",
+       "t": 160.308
+      },
+      {
+       "w": "to",
+       "t": 160.506
+      },
+      {
+       "w": "cross.",
+       "t": 160.693
+      },
+      {
+       "w": "The",
+       "t": 161.028
+      },
+      {
+       "w": "machine",
+       "t": 161.221
+      },
+      {
+       "w": "arrives",
+       "t": 161.655
+      },
+      {
+       "w": "everywhere",
+       "t": 162.09
+      },
+      {
+       "w": "at",
+       "t": 162.761
+      },
+      {
+       "w": "once.",
+       "t": 162.948
+      }
+     ]
+    },
+    {
+     "id": "n5",
+     "text": "And the ladder's bottom rung, cheap labor, is the first thing it makes worthless.",
+     "start": 163.628,
+     "dur": 4.361,
+     "words": [
+      {
+       "w": "And",
+       "t": 163.628
+      },
+      {
+       "w": "the",
+       "t": 163.851
+      },
+      {
+       "w": "ladder's",
+       "t": 164.074
+      },
+      {
+       "w": "bottom",
+       "t": 164.456
+      },
+      {
+       "w": "rung,",
+       "t": 164.825
+      },
+      {
+       "w": "cheap",
+       "t": 165.207
+      },
+      {
+       "w": "labor,",
+       "t": 165.443
+      },
+      {
+       "w": "is",
+       "t": 165.959
+      },
+      {
+       "w": "the",
+       "t": 166.175
+      },
+      {
+       "w": "first",
+       "t": 166.398
+      },
+      {
+       "w": "thing",
+       "t": 166.634
+      },
+      {
+       "w": "it",
+       "t": 166.869
+      },
+      {
+       "w": "makes",
+       "t": 167.086
+      },
+      {
+       "w": "worthless.",
+       "t": 167.449
+      }
+     ]
+    }
+   ],
+   "dur": 15.406
+  },
+  {
+   "id": "card6",
+   "start": 168.83,
+   "card": {
+    "num": "VI",
+    "title": "The End of the Contract"
+   },
+   "dur": 2.2
+  },
+  {
+   "id": "quiet",
+   "start": 171.03,
+   "lines": [
+    {
+     "id": "e1",
+     "text": "The end will not arrive as an upheaval. It will come quietly.",
+     "start": 171.24,
+     "dur": 3.691,
+     "words": [
+      {
+       "w": "The",
+       "t": 171.24
+      },
+      {
+       "w": "end",
+       "t": 171.455
+      },
+      {
+       "w": "will",
+       "t": 171.67
+      },
+      {
+       "w": "not",
+       "t": 171.892
+      },
+      {
+       "w": "arrive",
+       "t": 172.107
+      },
+      {
+       "w": "as",
+       "t": 172.587
+      },
+      {
+       "w": "an",
+       "t": 172.796
+      },
+      {
+       "w": "upheaval.",
+       "t": 173.005
+      },
+      {
+       "w": "It",
+       "t": 173.645
+      },
+      {
+       "w": "will",
+       "t": 173.854
+      },
+      {
+       "w": "come",
+       "t": 174.076
+      },
+      {
+       "w": "quietly.",
+       "t": 174.421
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "text": "The job posting never put up. The contract not renewed. The graduate who never finds a first job.",
+     "start": 175.251,
+     "dur": 5.994,
+     "words": [
+      {
+       "w": "The",
+       "t": 175.251
+      },
+      {
+       "w": "job",
+       "t": 175.488
+      },
+      {
+       "w": "posting",
+       "t": 175.725
+      },
+      {
+       "w": "never",
+       "t": 176.125
+      },
+      {
+       "w": "put",
+       "t": 176.511
+      },
+      {
+       "w": "up.",
+       "t": 176.748
+      },
+      {
+       "w": "The",
+       "t": 177.141
+      },
+      {
+       "w": "contract",
+       "t": 177.378
+      },
+      {
+       "w": "not",
+       "t": 177.784
+      },
+      {
+       "w": "renewed.",
+       "t": 178.021
+      },
+      {
+       "w": "The",
+       "t": 178.719
+      },
+      {
+       "w": "graduate",
+       "t": 178.956
+      },
+      {
+       "w": "who",
+       "t": 179.498
+      },
+      {
+       "w": "never",
+       "t": 179.735
+      },
+      {
+       "w": "finds",
+       "t": 180.121
+      },
+      {
+       "w": "a",
+       "t": 180.372
+      },
+      {
+       "w": "first",
+       "t": 180.595
+      },
+      {
+       "w": "job.",
+       "t": 180.846
+      }
+     ]
+    }
+   ],
+   "dur": 10.916
+  },
+  {
+   "id": "final",
+   "start": 181.945,
+   "lines": [
+    {
+     "id": "e3",
+     "text": "The weavers lost a craft. We are losing our place in the economy itself.",
+     "start": 182.225,
+     "dur": 4.223,
+     "words": [
+      {
+       "w": "The",
+       "t": 182.225
+      },
+      {
+       "w": "weavers",
+       "t": 182.433
+      },
+      {
+       "w": "lost",
+       "t": 182.782
+      },
+      {
+       "w": "a",
+       "t": 182.995
+      },
+      {
+       "w": "craft.",
+       "t": 183.191
+      },
+      {
+       "w": "We",
+       "t": 183.552
+      },
+      {
+       "w": "are",
+       "t": 183.754
+      },
+      {
+       "w": "losing",
+       "t": 184.079
+      },
+      {
+       "w": "our",
+       "t": 184.423
+      },
+      {
+       "w": "place",
+       "t": 184.63
+      },
+      {
+       "w": "in",
+       "t": 184.968
+      },
+      {
+       "w": "the",
+       "t": 185.169
+      },
+      {
+       "w": "economy",
+       "t": 185.376
+      },
+      {
+       "w": "itself.",
+       "t": 185.963
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "text": "Our descendants will see the wealthiest, most dazzling world in history.",
+     "start": 187.169,
+     "dur": 3.907,
+     "words": [
+      {
+       "w": "Our",
+       "t": 187.169
+      },
+      {
+       "w": "descendants",
+       "t": 187.404
+      },
+      {
+       "w": "will",
+       "t": 187.963
+      },
+      {
+       "w": "see",
+       "t": 188.206
+      },
+      {
+       "w": "the",
+       "t": 188.442
+      },
+      {
+       "w": "wealthiest,",
+       "t": 188.677
+      },
+      {
+       "w": "most",
+       "t": 189.257
+      },
+      {
+       "w": "dazzling",
+       "t": 189.499
+      },
+      {
+       "w": "world",
+       "t": 189.903
+      },
+      {
+       "w": "in",
+       "t": 190.153
+      },
+      {
+       "w": "history.",
+       "t": 190.382
+      }
+     ]
+    },
+    {
+     "id": "e5",
+     "text": "It will run flawlessly without them.",
+     "start": 191.396,
+     "dur": 2.274,
+     "words": [
+      {
+       "w": "It",
+       "t": 191.396
+      },
+      {
+       "w": "will",
+       "t": 191.648
+      },
+      {
+       "w": "run",
+       "t": 191.916
+      },
+      {
+       "w": "flawlessly",
+       "t": 192.176
+      },
+      {
+       "w": "without",
+       "t": 192.785
+      },
+      {
+       "w": "them.",
+       "t": 193.224
+      }
+     ]
+    },
+    {
+     "id": "e6",
+     "text": "And not a single thing in it will belong to them.",
+     "start": 194.55,
+     "dur": 2.729,
+     "words": [
+      {
+       "w": "And",
+       "t": 194.55
+      },
+      {
+       "w": "not",
+       "t": 194.76
+      },
+      {
+       "w": "a",
+       "t": 194.971
+      },
+      {
+       "w": "single",
+       "t": 195.169
+      },
+      {
+       "w": "thing",
+       "t": 195.517
+      },
+      {
+       "w": "in",
+       "t": 195.74
+      },
+      {
+       "w": "it",
+       "t": 195.944
+      },
+      {
+       "w": "will",
+       "t": 196.149
+      },
+      {
+       "w": "belong",
+       "t": 196.365
+      },
+      {
+       "w": "to",
+       "t": 196.714
+      },
+      {
+       "w": "them.",
+       "t": 196.918
+      }
+     ]
+    }
+   ],
+   "dur": 16.393
+  },
+  {
+   "id": "end",
+   "start": 198.339,
+   "card": {
+    "end": true
+   },
+   "dur": 6.0
+  }
+ ]
+}
