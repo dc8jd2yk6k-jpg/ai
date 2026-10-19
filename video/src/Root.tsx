@@ -7,14 +7,25 @@ import {SCENES} from './scenes';
 import {EndCard} from './scenes/End';
 import {C, H, W, ease} from './theme';
 
-const fontHandle = typeof document !== 'undefined' ? delayRender('fonts') : 0;
-if (typeof document !== 'undefined') {
-  Promise.all(
-    ['300 64px Fraunces', 'italic 300 64px Fraunces', '600 64px Fraunces', '400 20px "JetBrains Mono"', '700 20px "JetBrains Mono"', '300 20px Inter'].map((f) =>
-      document.fonts.load(f),
-    ),
-  ).then(() => continueRender(fontHandle));
-}
+const FONTS = ['300 64px Fraunces', 'italic 300 64px Fraunces', '600 64px Fraunces', '400 20px "JetBrains Mono"', '700 20px "JetBrains Mono"', '300 20px Inter', '500 20px Inter'];
+
+/** Hold each frame until the webfonts are ready (never longer than 8 s). */
+const FontGate: React.FC<{children: React.ReactNode}> = ({children}) => {
+  const [handle] = React.useState(() => delayRender('fonts', {timeoutInMilliseconds: 20000}));
+  React.useEffect(() => {
+    let done = false;
+    const finish = () => {
+      if (!done) {
+        done = true;
+        continueRender(handle);
+      }
+    };
+    Promise.all(FONTS.map((f) => document.fonts.load(f))).then(finish, finish);
+    const id = setTimeout(finish, 8000);
+    return () => clearTimeout(id);
+  }, [handle]);
+  return <>{children}</>;
+};
 
 const Fade: React.FC<{dur: number; children: React.ReactNode; first: boolean; last: boolean}> = ({dur, children, first, last}) => {
   const t = useT();
@@ -24,6 +35,7 @@ const Fade: React.FC<{dur: number; children: React.ReactNode; first: boolean; la
 };
 
 export const Film: React.FC = () => (
+  <FontGate>
   <AbsoluteFill style={{background: C.bg}}>
     {TL.scenes.map((s, i) => {
       const from = Math.round((s.start - XF) * FPS);
@@ -42,6 +54,7 @@ export const Film: React.FC = () => (
     <Grain />
     <Flicker />
   </AbsoluteFill>
+  </FontGate>
 );
 
 export const RemotionRoot: React.FC = () => (
